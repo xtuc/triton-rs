@@ -292,7 +292,7 @@ dependencies = [
 
 [[package]]
 name = "triton-rs"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "libc",
  "triton-sys",
@@ -300,7 +300,7 @@ dependencies = [
 
 [[package]]
 name = "triton-sys"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "bindgen",
 ]

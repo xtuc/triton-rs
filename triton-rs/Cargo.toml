@@ -1,6 +1,6 @@
 [package]
 name = "triton-rs"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Sven Sauleau <sven@cloudflare.com>"]
 description = "Rust bindings to the Triton Inference Server for implementing backends"
