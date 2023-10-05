@@ -1,0 +1,12 @@
+[package]
+name = "triton-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sven Sauleau <sven@cloudflare.com>"]
+description = "Rust bindings to the Triton Inference Server for implementing backends"
+license = "MIT"
+repository = "https://github.com/xtuc/triton-rs"
+
+[dependencies]
+libc = "0.2.148"
+triton-sys = { version = "0.1.0", path = "../triton-sys" }
